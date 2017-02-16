@@ -1,0 +1,14 @@
+{
+    "require": {
+        "symfony/http-foundation": "^3.2",
+        "symfony/routing": "^3.2",
+        "symfony/http-kernel": "^3.2",
+        "symfony/event-dispatcher": "^3.2",
+        "symfony/dependency-injection": "^3.2",
+        "symfony/yaml": "^3.2",
+        "filp/whoops": "^2.1"
+    },
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
+}

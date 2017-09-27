@@ -1,0 +1,12 @@
+route1:
+    path:     /
+    defaults: { _controller: 'App\Controller\indexController::indexAction' }
+
+route2:
+    path:     /hello/{name}
+    defaults: { _controller: 'App\Controller\indexController::helloAction' }
+
+route3:
+    path:     /api/{name}
+    defaults: { _controller: 'App\Controller\indexController::apiAction', name: null }
+    prefix: /

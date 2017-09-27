@@ -1,0 +1,4 @@
+# app/config/config.yml
+framework:
+    # ...
+    templating: { engines: ['twig'] }

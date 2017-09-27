@@ -1,0 +1,7 @@
+#C:\wamp64\www\parking\Resources\Views\%name% #
+main:
+    url: http://httpbin.org/
+    verson: 1.0.0
+    interface: http://httpbin.org/
+    path: simplex
+    template: C:\wamp64\www\simplex\Resources\Views\%name%

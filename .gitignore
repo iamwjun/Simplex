@@ -1,0 +1,7 @@
+# development
+/vendor
+
+# ide
+Thumbs.db
+.idea
+.vscode

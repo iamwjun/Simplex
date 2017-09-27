@@ -1,0 +1,10 @@
+account:
+    desc: get account
+    type: get
+    url: account/get
+    parameters: { uuid: '' }
+get:
+    desc: get ip address
+    type: get
+    url: get
+    parameters: {}

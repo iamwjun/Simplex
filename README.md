@@ -1,4 +1,4 @@
-<div algin="center">
+<div align="center">
   <h1>Simplex</h1>
   <p>a simplex php framework with symfony components</p>
 </div>
